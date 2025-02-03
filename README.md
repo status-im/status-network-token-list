@@ -1,1 +1,2 @@
-# status-network-token-list
+# Status Network Token List 🐉
+The official token list on Status Network
